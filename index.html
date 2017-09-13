@@ -153,7 +153,7 @@
       var threes = this.threes;
       var fours = this.fours;
       var fives = this.fives;
-      axios.get("https://gist.githubusercontent.com/anonymous/1d38bd68e408653bdfb0cb59bbbff482/raw/09e5eadceb5a6933be5a923c7088216b1d42d224/iidx12recommend.json").then(function(response){
+      axios.get("https://raw.githubusercontent.com/tsniper1237/tsniper1237.github.io/master/iidx12.json").then(function(response){
         var sort_by = function(field, reverse, primer){
           reverse = (reverse) ? -1 : 1;
           return function(a,b){
