@@ -154,5 +154,6 @@
 { "name": "oratio", "diff": -8, "suggest": "-/M NONE" },{ "name": "Go Beyond!!", "diff": -8, "suggest": "-/M NONE" },
 { "name": "rumrum triplets", "diff": -8, "suggest": "-/- NONE" },{ "name": "BRAINSTORM", "diff": -8, "suggest": "-/- NONE" },
 { "name": "夏色DIARY - L.E.D.-G STYLE MIX -", "diff": -8, "suggest": "-/- NONE" },{ "name": "NINJA IS DEAD IIDX ver.", "diff": -8, "suggest": "-/- NONE" },
-{ "name": "九尾狐夜行", "diff": -8, "suggest": "-/- FLIP" }
+{ "name": "九尾狐夜行", "diff": -8, "suggest": "-/- FLIP" },{ "name": "童話回廊", "diff": 0, "suggest": "M/- NONE" },
+{ "name": "Apocalypse", "diff": 2, "suggest": "-/M NONE" }
 ]
