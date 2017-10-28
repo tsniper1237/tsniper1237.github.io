@@ -79,7 +79,7 @@
 { "name": "海神", "diff": 2, "suggest": "M/- NONE" },{ "name": "Broken Sword", "diff": 2, "suggest": "M/- NONE" },
 { "name": "廿†", "diff": 2, "suggest": "-/- NONE" },{ "name": "Feel The Beat†", "diff": 2, "suggest": "M/- NONE" },
 { "name": "cinder", "diff": 2, "suggest": "M/- NONE" },{ "name": "Despair of ELFERIA", "diff": 2, "suggest": "-/M NONE" },
-{ "name": "Hollywood Galaxy (DJ NAGAI Remix)", "diff": "Night sky", "suggest": "-/- NONE" },
+{ "name": "Hollywood Galaxy (DJ NAGAI Remix)", "diff": 2, "suggest": "-/- NONE" },{ "name": "Night sky", "diff": 2, "suggest": "-/- NONE" },
 { "name": "Shooting Fireball", "diff": 2, "suggest": "-/- NONE" },{ "name": "Sounds Of Summer", "diff": 2, "suggest": "-/- NONE" },
 { "name": "SpaceLand☆TOYBOX", "diff": 2, "suggest": "-/- NONE" },{ "name": "TIEFSEE", "diff": 2, "suggest": "M/- FLIP" },
 { "name": "それは花火のような恋", "diff": 2, "suggest": "-/M NONE" },{ "name": "リリーゼと炎龍レーヴァテイン", "diff": 2, "suggest": "M/M FLIP" },
@@ -155,5 +155,7 @@
 { "name": "rumrum triplets", "diff": -8, "suggest": "-/- NONE" },{ "name": "BRAINSTORM", "diff": -8, "suggest": "-/- NONE" },
 { "name": "夏色DIARY - L.E.D.-G STYLE MIX -", "diff": -8, "suggest": "-/- NONE" },{ "name": "NINJA IS DEAD IIDX ver.", "diff": -8, "suggest": "-/- NONE" },
 { "name": "九尾狐夜行", "diff": -8, "suggest": "-/- FLIP" },{ "name": "童話回廊", "diff": 0, "suggest": "M/- NONE" },
-{ "name": "Apocalypse", "diff": 2, "suggest": "-/M NONE" }
+{ "name": "Apocalypse", "diff": 2, "suggest": "-/M NONE" },{ "name": "Snakey Kung-fu", "diff": 2, "suggest": "-/M NONE" },
+{ "name": "刃図羅", "diff": 2, "suggest": "-/- NONE" },{ "name": "STARLIGHT DANCEHALL†", "diff": 3, "suggest": "-/- NONE" },
+{ "name": "THE DEEP STRIKER", "diff": 3, "suggest": "-/- NONE" }
 ]
