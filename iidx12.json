@@ -52,7 +52,7 @@
 { "name": "Highcharge Divolt", "diff": 1, "suggest": "-/- NONE" },{ "name": "BabeL ～Grand Story～", "diff": 1, "suggest": "-/M NONE" },
 { "name": "FUZIN RIZIN", "diff": 1, "suggest": "-/- NONE" },{ "name": "Super Rush", "diff": 1, "suggest": "M/- NONE" },
 { "name": "Holic", "diff": 2, "suggest": "M/- FLIP" },{ "name": "G2", "diff": 2, "suggest": "M/- FLIP" },
-{ "name": "革命[A]", "diff": 2, "suggest": "RR/M FLIP" },{ "name": "Karma", "diff": 2, "suggest": "-/M NONE" },
+{ "name": "革命[A]", "diff": 2, "suggest": "RR/M FLIP" },{ "name": "Karma", "diff": 2, "suggest": "-/- NONE" },
 { "name": "RISLIM -Remix-", "diff": 2, "suggest": "M/- NONE" },{ "name": "Love Is Eternity", "diff": 2, "suggest": "M/- NONE" },
 { "name": "雪月花", "diff": 2, "suggest": "M/- NONE" },{ "name": "GENOCIDE[H]", "diff": 2, "suggest": "M/M NONE" },
 { "name": "AA", "diff": 2, "suggest": "M/- FLIP" },{ "name": "Sphere", "diff": 2, "suggest": "-/M NONE" },
@@ -138,7 +138,7 @@
 { "name": "共鳴遊戯の華", "diff": 4, "suggest": "-/M NONE" },{ "name": "EBONY & IVORY†", "diff": 4, "suggest": "-/M NONE" },
 { "name": "GOBBLE", "diff": 4, "suggest": "M/M NONE" },{ "name": "CODE:1 [revision 1.0.1]", "diff": 4, "suggest": "-/- NONE" },
 { "name": "灼熱 Pt.2 Long Train Running", "diff": 4, "suggest": "-/- NONE" },{ "name": "駅猫のワルツ", "diff": 4, "suggest": "-/- NONE" },
-{ "name": "ECHIDNA", "diff": 4, "suggest": "-/- NONE" },{ "name": "Mare Nectaris", "diff": 4, "suggest": "-/- NONE" },
+{ "name": "ECHIDNA", "diff": 4, "suggest": "-/- NONE" },{ "name": "Mare Nectaris", "diff": 5, "suggest": "-/- NONE" },
 { "name": "SEQUENCE CAT", "diff": 4, "suggest": "-/M FLIP" },{ "name": "KAMAITACHI†", "diff": 5, "suggest": "-/- NONE" },
 { "name": "ICARUS†", "diff": 5, "suggest": "-/- NONE" },{ "name": "Almagest", "diff": 5, "suggest": "M/- FLIP" },
 { "name": "quell -the seventh slave-", "diff": 5, "suggest": "???????" },{ "name": "perditus†paradisus", "diff": 5, "suggest": "M/M NONE" },
@@ -157,5 +157,10 @@
 { "name": "九尾狐夜行", "diff": -8, "suggest": "-/- FLIP" },{ "name": "童話回廊", "diff": 0, "suggest": "M/- NONE" },
 { "name": "Apocalypse", "diff": 2, "suggest": "-/M NONE" },{ "name": "Snakey Kung-fu", "diff": 2, "suggest": "-/M NONE" },
 { "name": "刃図羅", "diff": 2, "suggest": "-/- NONE" },{ "name": "STARLIGHT DANCEHALL†", "diff": 3, "suggest": "-/- NONE" },
-{ "name": "THE DEEP STRIKER", "diff": 3, "suggest": "-/- NONE" }
-]
+{ "name": "THE DEEP STRIKER†", "diff": 3, "suggest": "-/- NONE" },{ "name": "Arca", "diff": 0, "suggest": "-/-NONE" },
+{ "name": "Mira", "diff": 0, "suggest": "M/- FLIP" },{ "name": "Xperanza", "diff": 0, "suggest": "-/- NONE" },
+{ "name": "龍と少女とデコヒーレンス†", "diff": 1, "suggest": "-/M NONE" },{ "name": " 神謳 -RESONANCE- ", "diff": 1, "suggest": "M/- NONE" },
+{ "name": "Amazing Mirage†", "diff": 1, "suggest": "-/- NONE" },{ "name": "AA -rebuild-", "diff": 2, "suggest": "-/- NONE" },
+{ "name": "The Chase", "diff": 2, "suggest": "-/M FLIP" },{ "name": "DEADHEAT", "diff": 2, "suggest": "M/- NONE" },
+{ "name": "DEATH†ZIGOQ〜怒りの高速爆走野郎〜", "diff": 2, "suggest": "-/- NONE" },{ "name": "Usual Days-remix", "diff": 2, "suggest": "-/- NONE" },
+{ "name": "VOX RUSH", "diff": 3, "suggest": "-/- NONE" }]
