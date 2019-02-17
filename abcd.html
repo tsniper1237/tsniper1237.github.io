@@ -12,105 +12,107 @@
   <body>
   <b><font size="4">beatmaniaIIDX DP☆12オプション保管庫</b></font>
   <br>
-  難易度によるソートは<a href="https://tsniper1237.github.io/"><u>コチラ</u></a><br>
+  曲名順によるソートは<a href="https://tsniper1237.github.io/abcd.html"><u>コチラ</u></a><br>
   <br><br>
   <!--タブコンポーネントを使ってHTMLコーディング-->
   <div class="m-t-1 m-l-1 m-r-1">
   <!--タブのボタン部分-->
   <ul class="nav nav-tabs">
     <li class="nav-item">
-      <a href="#tab0" class="nav-link bg-primary" data-toggle="tab"><font color=white>数字ABCD</font></a>
+      <a href="#tab" class="nav-link bg-primary" data-toggle="tab"><font color=white>～11.8</font></a>
     </li>
     <li class="nav-item">
-      <a href="#tab1" class="nav-link bg-primary" data-toggle="tab"><font color=white>EFGH</font></a>
+      <a href="#tab0" class="nav-link bg-primary" data-toggle="tab"><font color=white>12.0</font></a>
     </li>
     <li class="nav-item">
-      <a href="#tab2" class="nav-link bg-primary" data-toggle="tab"><font color=white>IJKL</font></a>
+      <a href="#tab1" class="nav-link bg-primary" data-toggle="tab"><font color=white>12.1</font></a>
     </li>
     <li class="nav-item">
-      <a href="#tab3" class="nav-link bg-primary" data-toggle="tab"><font color=white>MNOP</font></a>
+      <a href="#tab2" class="nav-link bg-primary" data-toggle="tab"><font color=white>12.2</font></a>
     </li>
     <li class="nav-item">
-      <a href="#tab4" class="nav-link bg-primary" data-toggle="tab"><font color=white>QRST</font></a>
+      <a href="#tab3" class="nav-link bg-primary" data-toggle="tab"><font color=white>12.3</font></a>
     </li>
     <li class="nav-item">
-      <a href="#tab5" class="nav-link bg-primary" data-toggle="tab"><font color=white>UVWXYZ</font></a>
+      <a href="#tab4" class="nav-link bg-primary" data-toggle="tab"><font color=white>12.4</font></a>
     </li>
     <li class="nav-item">
-      <a href="#tab6" class="nav-link bg-primary" data-toggle="tab"><font color=white>その他</font></a>
+      <a href="#tab5" class="nav-link bg-primary" data-toggle="tab"><font color=white>12.5</font></a>
     </li>
   </ul>
   <br>
   <br>
   <!--タブのコンテンツ部分-->
   <div class="tab-content" id="tabs">
-    <div id="tab0" class="tab-pane">
-      <select v-model="abcd">
+    <div id="tab" class="tab-pane">
+      <select v-model="s11">
       <option disabled value="">曲を選んでください</option>
-      <option v-for="option in ABCDs" v-bind:value="option">
+      <option v-for="option in elevens" v-bind:value="option">
       {{ option.name }}
       </option>
       </select><br>
-      <span>　　　推奨オプション<br><b>　　　　{{ abcd.suggest }}</b></span>
+      <span>　　　推奨オプション<br><b>　　　　{{ s11.suggest }}</b></span>
+    </div>
+    <div id="tab0" class="tab-pane">
+      <select v-model="s0">
+      <option disabled value="">曲を選んでください</option>
+      <option v-for="option in zeros" v-bind:value="option">
+      {{ option.name }}
+      </option>
+      </select><br>
+      <span>　　　推奨オプション<br><b>　　　　{{ s0.suggest }}</b></span>
     </div>
     <div id="tab1" class="tab-pane">
-      <select v-model="efgh">
+      <select v-model="s1">
       <option disabled value="">曲を選んでください</option>
-      <option v-for="option in EFGHs" v-bind:value="option">
+      <option v-for="option in ones" v-bind:value="option">
       {{ option.name }}
       </option>
       </select><br>
-      <span>　　　推奨オプション<br><b>　　　　{{ efgh.suggest }}</b></span>
+      <span>　　　推奨オプション<br><b>　　　　{{ s1.suggest }}</b></span>
     </div>
     <div id="tab2" class="tab-pane">
-      <select v-model="ijkl">
+      <select v-model="s2">
       <option disabled value="">曲を選んでください</option>
-      <option v-for="option in IJKLs" v-bind:value="option">
+      <option v-for="option in twos" v-bind:value="option">
       {{ option.name }}
       </option>
       </select><br>
-      <span>　　　推奨オプション<br><b>　　　　{{ ijkl.suggest }}</b></span>
+      <span>　　　推奨オプション<br><b>　　　　{{ s2.suggest }}</b></span>
     </div>
     <div id="tab3" class="tab-pane">
-      <select v-model="mnop">
+      <select v-model="s3">
       <option disabled value="">曲を選んでください</option>
-      <option v-for="option in MNOPs" v-bind:value="option">
+      <option v-for="option in threes" v-bind:value="option">
       {{ option.name }}
       </option>
       </select><br>
-      <span>　　　推奨オプション<br><b>　　　　{{ mnop.suggest }}</b></span>
+      <span>　　　推奨オプション<br><b>　　　　{{ s3.suggest }}</b></span>
     </div>
     <div id="tab4" class="tab-pane">
-      <select v-model="qrst">
+      <select v-model="s4">
       <option disabled value="">曲を選んでください</option>
-      <option v-for="option in QRSTs" v-bind:value="option">
+      <option v-for="option in fours" v-bind:value="option">
       {{ option.name }}
       </option>
       </select><br>
-      <span>　　　推奨オプション<br><b>　　　　{{ qrst.suggest }}</b></span>
+      <span>　　　推奨オプション<br><b>　　　　{{ s4.suggest }}</b></span>
     </div>
     <div id="tab5" class="tab-pane">
-      <select v-model="uvwxyz">
+      <select v-model="s5">
       <option disabled value="">曲を選んでください</option>
-      <option v-for="option in UVWXYZs" v-bind:value="option">
+      <option v-for="option in fives" v-bind:value="option">
       {{ option.name }}
       </option>
       </select><br>
-      <span>　　　推奨オプション<br><b>　　　　{{ uvwxyz.suggest }}</b></span>
-    </div>
-    <div id="tab6" class="tab-pane">
-      <select v-model="other">
-      <option disabled value="">曲を選んでください</option>
-      <option v-for="option in OTHERs" v-bind:value="option">
-      {{ option.name }}
-      </option>
-      </select><br>
-      <span>　　　推奨オプション<br><b>　　　　{{ other.suggest }}</b></span>
+      <span>　　　推奨オプション<br><b>　　　　{{ s5.suggest }}</b></span>
     </div>
   </div>
   </div>
   <br><br><br><br>
   _______________________________________________________<br>
+  非公式難易度表は<a href="https://zasa.sakura.ne.jp/dp/" target="_blank"><u>SNJ@KMZS</u></a>さんの<br>
+  サイトを参考にしています<br><br>
   見方<br>
   1P側 -/- 2P側　(<b>FLIP</b> or <b>NONE</b>)<br><br>
   <b>-</b>：正規　　　　　<b>M</b>：ミラー<br>
@@ -121,6 +123,9 @@
   やりやすいと感じたオプションです。適宜読み替えてください。<br>
   予告無くオプションが変更される事があります<br><br>
   ご要望などありましたらTwitter(<a href="https://twitter.com/tsniper1237" target="_blank"><u>@tsniper1237</u></a>)かtsniper1237あっとgmailどっとこむまで<br>
+  <br><br>
+  最終更新：2018/07/06<br>
+  新曲追加、削除曲対応、推奨オプション色々変えた
   <!-- Optional JavaScript -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
   <script src="https://code.jquery.com/jquery-2.2.3.js"></script>
@@ -131,29 +136,29 @@
     var app = new Vue({
     el: '#tabs',
     data: {
-      abcd: '',
-      efgh: '',
-      ijkl: '',
-      mnop: '',
-      qrst: '',
-      uvwxyz: '',
-      other: '',
-      ABCDs:[],
-      EFGHs:[],
-      IJKLs:[],
-      MNOPs:[],
-      QRSTs:[],
-      UVWXYZs:[],
-      OTHERs:[]
+      s11:'',
+      s0: '',
+      s1: '',
+      s2: '',
+      s3: '',
+      s4: '',
+      s5: '',
+      elevens:[],
+      zeros:[],
+      ones:[],
+      twos:[],
+      threes:[],
+      fours:[],
+      fives:[]
     },
     created: function(){
-      var ABCDs = this.ABCDs;
-      var EFGHs = this.EFGHs;
-      var IJKLs = this.IJKLs;
-      var MNOPs = this.MNOPs;
-      var QRSTs = this.QRSTs;
-      var UVWXYZs = this.UVWXYZs;
-      var OTHERs = this.OTHERs;
+      var elevens = this.elevens;
+      var zeros = this.zeros;
+      var ones = this.ones;
+      var twos = this.twos;
+      var threes = this.threes;
+      var fours = this.fours;
+      var fives = this.fives;
       axios.get("https://raw.githubusercontent.com/tsniper1237/tsniper1237.github.io/master/iidx12.json").then(function(response){
         var sort_by = function(field, reverse, primer){
           reverse = (reverse) ? -1 : 1;
@@ -174,14 +179,28 @@
         });
         
         for(var i=0; i<response.data.length; i++){
-          var first = response.data[i].name.charAt(0).toUpperCase();
-          if(first <= "D") ABCDs.push(response.data[i]);
-          else if(first <= "H") EFGHs.push(response.data[i]);
-          else if(first <= "L") IJKLs.push(response.data[i]);
-          else if(first <= "P") MNOPs.push(response.data[i]);
-          else if(first <= "T") QRSTs.push(response.data[i]);
-          else if(first <= "Z") UVWXYZs.push(response.data[i]);
-          else OTHERs.push(response.data[i]);
+          switch (response.data[i].diff){
+            case 0:
+              zeros.push(response.data[i]);
+              break;
+            case 1:
+              ones.push(response.data[i]);
+              break;
+            case 2:
+              twos.push(response.data[i]);
+              break;
+            case 3:
+              threes.push(response.data[i]);
+              break;
+            case 4:
+              fours.push(response.data[i]);
+              break;
+            case 5:
+              fives.push(response.data[i]);
+              break;
+            default:
+              elevens.push(response.data[i]);
+          }
         }
       }).catch(function(error){
         console.log('failure');
