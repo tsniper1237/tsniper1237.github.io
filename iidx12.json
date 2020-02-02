@@ -175,7 +175,7 @@
 { "name": "ANCHOR", "memo":"慣れたら右乱がいいかも", "suggest": "-/- NONE" },{ "name": "DUE TOMORROW", "memo":"どっちにしろトリル光らない場合はFLIP無しでも", "suggest": "M/- FLIP" },
 { "name": "Y&Co. is dead or alive", "memo":"", "suggest": "M/- NONE" },{ "name": "op.31 叙情", "memo":"正規も無難", "suggest": "R/R NONE" },
 { "name": "DropZ-Line-", "memo":"", "suggest": "-/- NONE" },{ "name": "GIGA THRASH", "memo":"完全に自分オプションですすみません", "suggest": "M/R FLIP" },
-{ "name": "Little Little Princess†", "memo":"", "suggest": "-/RR NONE" },{ "name": "Übertreffen†", "memo":"", "suggest": "-/M NONE" },
+{ "name": "Little Little Princess†", "memo":"", "suggest": "-/RR NONE" },{ "name": "Ubertreffen†", "memo":"", "suggest": "-/M NONE" },
 { "name": "waxing and wanding†", "memo":"R乱かなぁ", "suggest": "-/- NONE" },{ "name": "Catch Our Fire!", "memo":"", "suggest": "-/- NONE" },
 { "name": "Dr.Chemical & Killing Machine", "memo":"", "suggest": "-/M NONE" },{ "name": "L.F.O", "memo":"", "suggest": "RR/RR NONE" },
 { "name": "Level One", "memo":"", "suggest": "RR/- NONE" },{ "name": "THE DAY OF JUBILATIONS", "memo":"", "suggest": "M/- NONE" },
