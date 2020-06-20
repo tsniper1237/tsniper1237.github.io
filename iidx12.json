@@ -154,7 +154,7 @@
 { "name": "rumrum triplets", "memo":"", "suggest": "-/- NONE" },{ "name": "BRAINSTORM", "memo":"", "suggest": "-/- NONE" },
 { "name": "夏色DIARY - L.E.D.-G STYLE MIX -", "memo":"", "suggest": "-/- NONE" },{ "name": "NINJA IS DEAD IIDX ver.", "memo":"", "suggest": "-/- NONE" },
 { "name": "九尾狐夜行", "memo":"", "suggest": "-/- FLIP" },{ "name": "童話回廊", "memo":"スコア狙いは両乱", "suggest": "M/- NONE" },
-{ "name": "Apocalypse", "memo":"", "suggest": "-/M NONE" },{ "name": "Snakey Kung-fu", "memo":"", "suggest": "-/- NONE" },
+{ "name": "Apocalypse", "memo":"", "suggest": "R/R NONE" },{ "name": "Snakey Kung-fu", "memo":"", "suggest": "-/- NONE" },
 { "name": "刃図羅", "memo":"諸説あり", "suggest": "-/- NONE" },{ "name": "STARLIGHT DANCEHALL†", "memo":"", "suggest": "-/- NONE" },
 { "name": "THE DEEP STRIKER†", "memo":"", "suggest": "-/- NONE" },{ "name": "Arca", "memo":"両乱？", "suggest": "-/- NONE" },
 { "name": "Mira", "memo":"", "suggest": "M/- FLIP" },{ "name": "Xperanza", "memo":"", "suggest": "-/- NONE" },
@@ -193,7 +193,7 @@
 { "name": "HARD BRAIN", "memo":"", "suggest": "-/- NONE" },{ "name": "ruin of opals", "memo":"", "suggest": "-/M NONE" },
 { "name": "Visterhv", "memo":"両乱アリ", "suggest": "-/- NONE" },{ "name": "Χ-DEN", "memo":"", "suggest": "-/RR NONE" },
 { "name": "Welcome†", "memo":"逆正規と好みで", "suggest": "-/- NONE" },{ "name": "B4U(BEMANI FOR YOU MIX)†", "memo":"", "suggest": "M/- NONE" },
-{ "name": "GENE", "memo":"はよ解禁させろ", "suggest": "-/- NONE" },{ "name": "Night! Night! Night!", "memo":"たとえ初見でも挑戦段階でも両乱がオススメです正規ヤバい", "suggest": "R/R NONE" },
+{ "name": "GENE", "memo":"", "suggest": "-/M NONE" },{ "name": "Night! Night! Night!", "memo":"たとえ初見でも挑戦段階でも両乱がオススメです正規ヤバい", "suggest": "R/R NONE" },
 { "name": "Please Welcome Mr.C", "memo":"正直何でも変わらない気がする", "suggest": "-/- NONE" },{ "name": "お菓子の王国", "memo":"片側乱もあり", "suggest": "-/M NONE" },
 { "name": "泰東ノ翠霞", "memo":"", "suggest": "-/- NONE" },{ "name": "Wanna Party?†", "memo":"両S乱が超楽しい", "suggest": "-/- NONE" },
 { "name": "AIR RAID FROM THA UNDAGROUND†", "memo":"", "suggest": "-/- NONE" },
@@ -207,4 +207,8 @@
 { "name": "華麗なる大犬円舞曲", "memo":"", "suggest": "M/- NONE" },{ "name": "Inferno of Fomalhaut", "memo":"終盤のトリルにくっつく右7鍵は悪いこと言わないから捨てるべし", "suggest": "M/- NONE" },
 { "name": "THE F∀UST", "memo":"右乱かも", "suggest": "-/M NONE" },{ "name": "Rave Patroller", "memo":"", "suggest": "M/- NONE" },
 { "name": "Matt Silver", "memo":"正規で出来るに越したことはない", "suggest": "-/R NONE" },{ "name": "Lords Of The Roundtable", "memo":"後半の左13トリルのためだけ", "suggest": "M/- NONE" },
-{ "name": "one or eight†", "memo":"", "suggest": "-/- NONE" },{ "name": "千年ノ理†", "memo":"", "suggest": "-/- NONE" }]
+{ "name": "one or eight†", "memo":"", "suggest": "-/- NONE" },{ "name": "千年ノ理†", "memo":"", "suggest": "-/- NONE" },
+{ "name": "LASER CRUSTER (IGNITE REMIX)", "memo":"左も乱でいいかも", "suggest": "-/R NONE" },{ "name": "がっつり陰キャ!? 怪盗いいんちょの億劫^^;", "memo":"", "suggest": "-/- NONE" },
+{ "name": "Lords Of The Roundtable", "memo":"左鏡でも", "suggest": "-/- NONE" },{ "name": "Double Dribble", "memo":"", "suggest": "-/- NONE" },
+{ "name": "Level 2", "memo":"", "suggest": "-/- NONE" },{ "name": "BEAT PRISONER", "memo":"", "suggest": "-/- NONE" },
+{ "name": "	Vinculum stellarum", "memo":"", "suggest": "-/- NONE" }]
