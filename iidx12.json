@@ -19,7 +19,7 @@
 	{  "name" : "ANCHOR",  "memo" : "慣れたら右乱がいいかも",  "suggest" : "-/- NONE",  },
 	{  "name" : "Ancient Scapes[A]",  "memo" : "右は乱もあり",  "suggest" : "-/M NONE",  },
 	{  "name" : "Ancient Scapes†",  "memo" : "",  "suggest" : "-/M NONE",  },
-	{  "name" : "Anisakis -somatic mutation type "Forza"-",  "memo" : "",  "suggest" : "-/- NONE",  },
+	{  "name" : "Anisakis -somatic mutation type \"Forza\"-",  "memo" : "",  "suggest" : "-/- NONE",  },
 	{  "name" : "AO-1",  "memo" : "",  "suggest" : "M/M FLIP",  },
 	{  "name" : "Apocalypse",  "memo" : "",  "suggest" : "R/R NONE",  },
 	{  "name" : "Arabian Rave Night†",  "memo" : "",  "suggest" : "-/- NONE",  },
