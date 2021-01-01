@@ -1,4 +1,5 @@
-{[
+
+[
  	{  "name" : "〆",  "memo" : "",  "suggest" : "-/- NONE",  },
 	{  "name" : "∀",  "memo" : "",  "suggest" : "R/R NONE",  },
 	{  "name" : "†渚の小悪魔ラヴリィ～レイディオ† (IIDX EDIT)",  "memo" : "",  "suggest" : "M/- FLIP",  },
@@ -434,5 +435,5 @@
 	{  "name" : "煉獄のエルフェリア",  "memo" : "運動会地帯が押しやすくなる",  "suggest" : "-/M FLIP",  },
 	{  "name" : "凛として咲く花の如く†",  "memo" : "",  "suggest" : "M/- NONE",  },
 	{  "name" : "閠槞彁の願い",  "memo" : "未検証　名前が読めない",  "suggest" : "-/- NONE",  },
-	{  "name" : "焱影",  "memo" : "左乱もあり",  "suggest" : "-/- NONE",  },
-]};
+	{  "name" : "焱影",  "memo" : "左乱もあり",  "suggest" : "-/- NONE",  }
+]
