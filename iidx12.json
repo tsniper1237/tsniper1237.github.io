@@ -130,8 +130,7 @@
 	{  "name" : "gigadelic[H]",  "memo" : "",  "suggest" : "SR/SR NONE",  },
 	{  "name" : "Go Ahead!!",  "memo" : "",  "suggest" : "-/- NONE",  },
 	{  "name" : "Go Beyond!!",  "memo" : "",  "suggest" : "-/M NONE",  },
-	{  "name" : "GO OVER WITH GLARE -ROOTAGE 26-",  "memo" : "終盤左の密度が濃いのでクリア狙いならFLIPつけても良い
-ゴリラは右S乱かも",  "suggest" : "-/- NONE",  },
+	{  "name" : "GO OVER WITH GLARE -ROOTAGE 26-",  "memo" : "終盤左の密度が濃いのでクリア狙いならFLIPつけても良い\nゴリラは右S乱かも",  "suggest" : "-/- NONE",  },
 	{  "name" : "GOBBLE",  "memo" : "",  "suggest" : "M/M NONE",  },
 	{  "name" : "Godspeed",  "memo" : "右は乱もあり？",  "suggest" : "-/- NONE",  },
 	{  "name" : "GOLDEN CROSS",  "memo" : "地力ある人は両乱",  "suggest" : "-/- NONE",  },
@@ -373,7 +372,7 @@
 	{  "name" : "ミラージュ・レジデンス",  "memo" : "",  "suggest" : "M/- NONE",  },
 	{  "name" : "めいさいアイドル☆あいむちゃん♪",  "memo" : "分からん",  "suggest" : "-/M NONE",  },
 	{  "name" : "リリーゼと炎龍レーヴァテイン",  "memo" : "",  "suggest" : "M/- NONE",  },
-	{  "name" : "ワルツ第17番 ト短調"大犬のワルツ"",  "memo" : "癖ついたら両乱",  "suggest" : "-/- NONE",  },
+	{  "name" : "ワルツ第17番 ト短調\"大犬のワルツ\"",  "memo" : "癖ついたら両乱",  "suggest" : "-/- NONE",  },
 	{  "name" : "駅猫のワルツ",  "memo" : "",  "suggest" : "-/- NONE",  },
 	{  "name" : "焔極OVERKILL",  "memo" : "",  "suggest" : "-/M NONE",  },
 	{  "name" : "音楽",  "memo" : "最近はFLIP右乱",  "suggest" : "-/M FLIP",  },
